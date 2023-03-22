@@ -1,0 +1,33 @@
+Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+**************************************Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+**************************************Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+***************************************************
+Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+***************************************************
+Ingresó: Vehiculo{modelo='Toyota', placa='1290ERT'}, dinero recaudado: 500.0
+Ingresó: Vehiculo{modelo='Suzuki', placa='2690URY'}, dinero recaudado: 1000.0
+Ingresó: Vehiculo{modelo='Tesla', placa='8279ETN'}, dinero recaudado: 1500.0
+Ingresó: Vehiculo{modelo='Ford', placa='2296RTP'}, dinero recaudado: 2000.0
+Ingresó: Vehiculo{modelo='Ferrari', placa='1591TBN'}, dinero recaudado: 2500.0
+***************************************************
